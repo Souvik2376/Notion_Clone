@@ -13,8 +13,10 @@ Some Functionality :
 - When the task done check box .
 - Remove all task with the help of clear .
 
-![LIVE DEMO]
 
+[LIVE DEMO](https://souvik2376.github.io/To-Do-App/)
+
+  
 ## Screen Shots
 
 ### Home Page
