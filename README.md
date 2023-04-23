@@ -18,8 +18,10 @@ Inspired by Notion . Notion is a single space where you can think, write, and pl
 
 ## Demo 
 
-[Demo Video](Assests/Demo%20Video.mp4)
-  
+
+https://user-images.githubusercontent.com/100219950/233838032-fd5298ac-5c2c-4aff-b2e1-e1a3ea79f33f.mp4
+
+
 ## Screen Shots
 
 ### Home Page
