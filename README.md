@@ -1,10 +1,13 @@
-## To Do App
+# Notion App Clone 
 
-A simple To Do App build using HTML,CSS,JS .
+A simple app like notion app where one can manage their task on each day . Even we can give priority to the tasks . 4 types of priorities are there . The tasks will be arranged according to the priority .
 
-Inspired by Notion .
+This clone is made using HTML, CSS, JS. 
 
-Some Functionality :
+Inspired by Notion . Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.
+
+## Some Functionality 
+
 - Add different Projects like College , Studies etc.
 - Add tasks according to the projects .
 - Add priority to the task .
@@ -13,9 +16,9 @@ Some Functionality :
 - When the task done check box .
 - Remove all task with the help of clear .
 
+## Demo 
 
-[LIVE DEMO](https://souvik2376.github.io/To-Do-App/)
-
+[Demo Video](Assests/Demo%20Video.mp4)
   
 ## Screen Shots
 
@@ -33,3 +36,5 @@ Some Functionality :
 - HTML
 - CSS
 - JS
+
+[LIVE SITE](https://souvik2376.github.io/To-Do-App/)
