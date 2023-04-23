@@ -39,4 +39,4 @@ https://user-images.githubusercontent.com/100219950/233838032-fd5298ac-5c2c-4aff
 - CSS
 - JS
 
-[LIVE SITE](https://souvik2376.github.io/To-Do-App/)
+[LIVE SITE](https://souvik2376.github.io/Notion_Clone/)
