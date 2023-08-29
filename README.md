@@ -38,5 +38,6 @@ https://user-images.githubusercontent.com/100219950/233838032-fd5298ac-5c2c-4aff
 - HTML
 - CSS
 - JS
+[LIVE SITE](https://notion-clone-nxt-gen.netlify.app/)
 
 [LIVE SITE](https://souvik2376.github.io/Notion_Clone/)
